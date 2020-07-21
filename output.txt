@@ -1,0 +1,38 @@
+******************* Starting execution **********************
+
+Successfully read the data.
+Getting the data ready.
+
+	Plotting the initial data.
+	Saved the initial data plotted to initialDataPlot.jpg.
+
+	Result of cost function with theta = 0:(0.693)  0.6931471805599453
+
+	==================> Optimizing cost function <==================
+
+Optimization terminated successfully.
+         Current function value: 0.203498
+         Iterations: 157
+         Function evaluations: 287
+
+	==================> Done with optimizing cost function <==================
+
+	Plotting the decision boundary of data.
+	Saved the graph with decision boundary to decisionBoundary.jpg.
+
+	 __________________________ Results __________________________
+
+	Optimal theta values:  [-25.16130062   0.20623142   0.20147143]
+	Minimum cost value:  0.2034977015902151
+
+	For a student having 45 and 85 in first and second exams respectively,
+	 The hypothesis value will be:  0.7762915904112411
+	 The student will be admitted:  True
+
+	For a student having 55 and 65 in first and second exams respectively,
+	 The hypothesis value will be:  0.3267481883599288
+	 The student will be admitted:  False
+
+	Percentage of correctly predicted training examples: 0.890000
+
+******************* Exiting **********************
